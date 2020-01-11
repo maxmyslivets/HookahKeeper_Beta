@@ -4,7 +4,7 @@ import os, time
 
 
 root = Tk()
-root.title('Hookah data')
+root.title('Hookah Keeper - Beta')
 root.geometry('800x700+280+5')
 root.resizable(False, True)
 
